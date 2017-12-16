@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/sarahheacock/isomorphic-react"
   },
-  "homepage": "https://damp-dusk-27680.herokuapp.com/",
+  "homepage": "https://calm-reaches-79389.herokuapp.com/",
   "dependencies": {
     "axios": "^0.17.1",
     "babel-runtime": "^6.26.0",
