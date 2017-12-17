@@ -16,7 +16,7 @@ const DEV = process.env.NODE_ENV === 'development';
 //html that is returned during route changes
 const renderFullPage = (html, preloadedState) => {
   const src = "./index.js";
-  const href = '<link href="/client.css" rel="stylesheet"><link href="/shared.css" rel="stylesheet">';
+  const href = '<link rel="stylesheet" href="/client.css">';
 
   return `
     <!DOCTYPE html>
