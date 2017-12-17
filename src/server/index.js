@@ -8,7 +8,7 @@ import App from "../../build/shared";
 
 
 const app = express();
-app.use(express.static("build/client"));
+app.use(express.static("client"));
 
 const DEV = process.env.NODE_ENV === 'development';
 
